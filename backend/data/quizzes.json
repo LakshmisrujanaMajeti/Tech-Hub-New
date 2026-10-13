@@ -1,0 +1,1184 @@
+[
+  {
+    "id": "quiz-6e953eaf",
+    "trainer_id": "48632025-1678-4014-925a-86391063614b",
+    "trainer_name": "Elisala Sushma",
+    "trainer_email": "vsushmaelisala@gmail.com",
+    "college_id": "ce3937d8-db9a-4002-8128-bf5a68bec78b",
+    "college_name": "Adarsh Engineering College",
+    "title": "Python Dictionaries & Sets Live Test #100",
+    "description": "15 Mins Assessment test",
+    "course_name": "Python Full stack",
+    "target_branch": "ALL",
+    "target_year": "2nd Year",
+    "duration_minutes": 15,
+    "total_marks": 2,
+    "passing_percentage": 60,
+    "quiz_type": "CUSTOM_MCQ",
+    "questions": [
+      {
+        "id": "q_1_1790357604046",
+        "question_text": "What is the return type of dict.keys() in Python 3?",
+        "options": [
+          {
+            "id": "A",
+            "text": "dict_keys view object"
+          },
+          {
+            "id": "B",
+            "text": "list"
+          },
+          {
+            "id": "C",
+            "text": "tuple"
+          },
+          {
+            "id": "D",
+            "text": "set"
+          }
+        ],
+        "correct_option": "A",
+        "marks": 2,
+        "explanation": ""
+      }
+    ],
+    "is_published": true,
+    "status": "PUBLISHED",
+    "published_at": "2026-09-25T17:33:24.046Z",
+    "created_at": "2026-09-25T17:33:24.046Z",
+    "updated_at": "2026-09-25T17:33:24.046Z"
+  },
+  {
+    "id": "quiz-c16e589c",
+    "trainer_id": "48632025-1678-4014-925a-86391063614b",
+    "trainer_name": "Elisala Sushma",
+    "trainer_email": "vsushmaelisala@gmail.com",
+    "college_id": "ce3937d8-db9a-4002-8128-bf5a68bec78b",
+    "college_name": "Adarsh Engineering College",
+    "title": "Python Draft Test #99",
+    "description": "Draft notes...",
+    "course_name": "Python Full stack",
+    "target_branch": "ALL",
+    "target_year": "2nd Year",
+    "duration_minutes": 15,
+    "total_marks": 2,
+    "passing_percentage": 60,
+    "quiz_type": "CUSTOM_MCQ",
+    "questions": [
+      {
+        "id": "q_1_1790357604013",
+        "question_text": "Draft Q1",
+        "options": [
+          {
+            "id": "A",
+            "text": "Opt A"
+          },
+          {
+            "id": "B",
+            "text": "Opt B"
+          },
+          {
+            "id": "C",
+            "text": "Opt C"
+          },
+          {
+            "id": "D",
+            "text": "Opt D"
+          }
+        ],
+        "correct_option": "A",
+        "marks": 2,
+        "explanation": ""
+      }
+    ],
+    "is_published": false,
+    "status": "DRAFT",
+    "published_at": null,
+    "created_at": "2026-09-25T17:33:24.013Z",
+    "updated_at": "2026-09-25T17:33:24.013Z"
+  },
+  {
+    "id": "quiz-28cd152a",
+    "trainer_id": "48632025-1678-4014-925a-86391063614b",
+    "trainer_name": "Elisala Sushma",
+    "trainer_email": "vsushmaelisala@gmail.com",
+    "college_id": "ce3937d8-db9a-4002-8128-bf5a68bec78b",
+    "college_name": "Adarsh Engineering College",
+    "title": "Python Dictionaries & Sets Live Test #100",
+    "description": "15 Mins Assessment test",
+    "course_name": "Python Full stack",
+    "target_branch": "ALL",
+    "target_year": "2nd Year",
+    "duration_minutes": 15,
+    "total_marks": 2,
+    "passing_percentage": 60,
+    "quiz_type": "CUSTOM_MCQ",
+    "questions": [
+      {
+        "id": "q_1_1790357533767",
+        "question_text": "What is the return type of dict.keys() in Python 3?",
+        "options": [
+          {
+            "id": "A",
+            "text": "dict_keys view object"
+          },
+          {
+            "id": "B",
+            "text": "list"
+          },
+          {
+            "id": "C",
+            "text": "tuple"
+          },
+          {
+            "id": "D",
+            "text": "set"
+          }
+        ],
+        "correct_option": "A",
+        "marks": 2,
+        "explanation": ""
+      }
+    ],
+    "is_published": true,
+    "status": "PUBLISHED",
+    "published_at": "2026-09-25T17:32:13.768Z",
+    "created_at": "2026-09-25T17:32:13.768Z",
+    "updated_at": "2026-09-25T17:32:13.768Z"
+  },
+  {
+    "id": "quiz-1129812a",
+    "trainer_id": "48632025-1678-4014-925a-86391063614b",
+    "trainer_name": "Elisala Sushma",
+    "trainer_email": "vsushmaelisala@gmail.com",
+    "college_id": "ce3937d8-db9a-4002-8128-bf5a68bec78b",
+    "college_name": "Adarsh Engineering College",
+    "title": "Python Draft Test #99",
+    "description": "Draft notes...",
+    "course_name": "Python Full stack",
+    "target_branch": "ALL",
+    "target_year": "2nd Year",
+    "duration_minutes": 15,
+    "total_marks": 2,
+    "passing_percentage": 60,
+    "quiz_type": "CUSTOM_MCQ",
+    "questions": [
+      {
+        "id": "q_1_1790357533721",
+        "question_text": "Draft Q1",
+        "options": [
+          {
+            "id": "A",
+            "text": "Opt A"
+          },
+          {
+            "id": "B",
+            "text": "Opt B"
+          },
+          {
+            "id": "C",
+            "text": "Opt C"
+          },
+          {
+            "id": "D",
+            "text": "Opt D"
+          }
+        ],
+        "correct_option": "A",
+        "marks": 2,
+        "explanation": ""
+      }
+    ],
+    "is_published": false,
+    "status": "DRAFT",
+    "published_at": null,
+    "created_at": "2026-09-25T17:32:13.722Z",
+    "updated_at": "2026-09-25T17:32:13.722Z"
+  },
+  {
+    "id": "quiz-44e5154d",
+    "trainer_id": "48632025-1678-4014-925a-86391063614b",
+    "trainer_name": "Elisala Sushma",
+    "trainer_email": "vsushmaelisala@gmail.com",
+    "college_id": "ce3937d8-db9a-4002-8128-bf5a68bec78b",
+    "college_name": "Adarsh Engineering College",
+    "title": "Python Dictionaries & Sets Live Test #100",
+    "description": "15 Mins Assessment test",
+    "course_name": "Python Full stack",
+    "target_branch": "ALL",
+    "target_year": "2nd Year",
+    "duration_minutes": 15,
+    "total_marks": 2,
+    "passing_percentage": 60,
+    "quiz_type": "CUSTOM_MCQ",
+    "questions": [
+      {
+        "id": "q_1_1790357454363",
+        "question_text": "What is the return type of dict.keys() in Python 3?",
+        "options": [
+          {
+            "id": "A",
+            "text": "dict_keys view object"
+          },
+          {
+            "id": "B",
+            "text": "list"
+          },
+          {
+            "id": "C",
+            "text": "tuple"
+          },
+          {
+            "id": "D",
+            "text": "set"
+          }
+        ],
+        "correct_option": "A",
+        "marks": 2,
+        "explanation": ""
+      }
+    ],
+    "is_published": true,
+    "status": "PUBLISHED",
+    "published_at": "2026-09-25T17:30:54.363Z",
+    "created_at": "2026-09-25T17:30:54.363Z",
+    "updated_at": "2026-09-25T17:30:54.363Z"
+  },
+  {
+    "id": "quiz-b1a81813",
+    "trainer_id": "48632025-1678-4014-925a-86391063614b",
+    "trainer_name": "Elisala Sushma",
+    "trainer_email": "vsushmaelisala@gmail.com",
+    "college_id": "ce3937d8-db9a-4002-8128-bf5a68bec78b",
+    "college_name": "Adarsh Engineering College",
+    "title": "Python Draft Test #99",
+    "description": "Draft notes...",
+    "course_name": "Python Full stack",
+    "target_branch": "ALL",
+    "target_year": "2nd Year",
+    "duration_minutes": 15,
+    "total_marks": 2,
+    "passing_percentage": 60,
+    "quiz_type": "CUSTOM_MCQ",
+    "questions": [
+      {
+        "id": "q_1_1790357454308",
+        "question_text": "Draft Q1",
+        "options": [
+          {
+            "id": "A",
+            "text": "Opt A"
+          },
+          {
+            "id": "B",
+            "text": "Opt B"
+          },
+          {
+            "id": "C",
+            "text": "Opt C"
+          },
+          {
+            "id": "D",
+            "text": "Opt D"
+          }
+        ],
+        "correct_option": "A",
+        "marks": 2,
+        "explanation": ""
+      }
+    ],
+    "is_published": false,
+    "status": "DRAFT",
+    "published_at": null,
+    "created_at": "2026-09-25T17:30:54.310Z",
+    "updated_at": "2026-09-25T17:30:54.310Z"
+  },
+  {
+    "id": "quiz-23767d92",
+    "trainer_id": "48632025-1678-4014-925a-86391063614b",
+    "trainer_name": "Elisala Sushma",
+    "trainer_email": "vsushmaelisala@gmail.com",
+    "college_id": "7b830e12-d85c-4d39-9524-2c63efcf4174",
+    "college_name": "Adarsh Engineering College",
+    "title": "Python OOPs & Data Structures - 2nd Year Live Test",
+    "description": "Concept verification exam for 2nd year Python Full stack students.",
+    "course_name": "Python Full stack",
+    "target_branch": "ALL",
+    "target_year": "2nd Year",
+    "duration_minutes": 15,
+    "total_marks": 10,
+    "passing_percentage": 60,
+    "quiz_type": "CUSTOM_MCQ",
+    "questions": [
+      {
+        "id": "q1",
+        "question_text": "What does __init__ method do in Python classes?",
+        "options": [
+          {
+            "id": "A",
+            "text": "It acts as the constructor to initialize object attributes."
+          },
+          {
+            "id": "B",
+            "text": "It deletes the object from memory."
+          },
+          {
+            "id": "C",
+            "text": "It imports external libraries."
+          },
+          {
+            "id": "D",
+            "text": "It compiles the code to bytecode."
+          }
+        ],
+        "correct_option": "A",
+        "marks": 5,
+        "explanation": ""
+      },
+      {
+        "id": "q2",
+        "question_text": "Which data structure follows LIFO (Last In First Out)?",
+        "options": [
+          {
+            "id": "A",
+            "text": "Queue"
+          },
+          {
+            "id": "B",
+            "text": "Stack"
+          },
+          {
+            "id": "C",
+            "text": "Array"
+          },
+          {
+            "id": "D",
+            "text": "Tree"
+          }
+        ],
+        "correct_option": "B",
+        "marks": 5,
+        "explanation": ""
+      }
+    ],
+    "is_published": true,
+    "status": "PUBLISHED",
+    "published_at": "2026-09-25T14:01:16.506Z",
+    "created_at": "2026-09-25T14:01:16.506Z",
+    "updated_at": "2026-09-25T14:01:16.506Z"
+  },
+  {
+    "id": "quiz-b7a44ef7",
+    "trainer_id": "48632025-1678-4014-925a-86391063614b",
+    "trainer_name": "Elisala Sushma",
+    "trainer_email": "vsushmaelisala@gmail.com",
+    "college_id": "7b830e12-d85c-4d39-9524-2c63efcf4174",
+    "college_name": "Adarsh Engineering College",
+    "title": "Unexpected Window Close Test #1790338250145",
+    "description": "Class assessment quiz. Complete within the time limit.",
+    "course_name": "Python Full stack",
+    "target_branch": "ALL",
+    "target_year": "2nd Year",
+    "duration_minutes": 15,
+    "total_marks": 1,
+    "passing_percentage": 60,
+    "quiz_type": "CUSTOM_MCQ",
+    "questions": [
+      {
+        "id": "q1",
+        "question_text": "Sample Q1?",
+        "options": [
+          {
+            "id": "A",
+            "text": "Opt1"
+          },
+          {
+            "id": "B",
+            "text": "Opt2"
+          }
+        ],
+        "correct_option": "A",
+        "marks": 1,
+        "explanation": ""
+      }
+    ],
+    "is_published": true,
+    "status": "PUBLISHED",
+    "published_at": "2026-09-25T12:10:50.145Z",
+    "created_at": "2026-09-25T12:10:50.145Z",
+    "updated_at": "2026-09-25T12:10:50.145Z"
+  },
+  {
+    "id": "quiz-2a3075fa",
+    "trainer_id": "48632025-1678-4014-925a-86391063614b",
+    "trainer_name": "Elisala Sushma",
+    "trainer_email": "vsushmaelisala@gmail.com",
+    "college_id": "7b830e12-d85c-4d39-9524-2c63efcf4174",
+    "college_name": "Adarsh Engineering College",
+    "title": "Proctoring & Anti-Cheat Tab Switch Test #1790338248542",
+    "description": "Class assessment quiz. Complete within the time limit.",
+    "course_name": "Python Full stack",
+    "target_branch": "ALL",
+    "target_year": "2nd Year",
+    "duration_minutes": 15,
+    "total_marks": 4,
+    "passing_percentage": 60,
+    "quiz_type": "CUSTOM_MCQ",
+    "questions": [
+      {
+        "id": "q1",
+        "question_text": "What keyword defines a function in Python?",
+        "options": [
+          {
+            "id": "A",
+            "text": "func"
+          },
+          {
+            "id": "B",
+            "text": "def"
+          },
+          {
+            "id": "C",
+            "text": "function"
+          },
+          {
+            "id": "D",
+            "text": "define"
+          }
+        ],
+        "correct_option": "B",
+        "marks": 2,
+        "explanation": ""
+      },
+      {
+        "id": "q2",
+        "question_text": "Which data type is immutable?",
+        "options": [
+          {
+            "id": "A",
+            "text": "tuple"
+          },
+          {
+            "id": "B",
+            "text": "list"
+          },
+          {
+            "id": "C",
+            "text": "dict"
+          },
+          {
+            "id": "D",
+            "text": "set"
+          }
+        ],
+        "correct_option": "A",
+        "marks": 2,
+        "explanation": ""
+      }
+    ],
+    "is_published": true,
+    "status": "PUBLISHED",
+    "published_at": "2026-09-25T12:10:48.542Z",
+    "created_at": "2026-09-25T12:10:48.542Z",
+    "updated_at": "2026-09-25T12:10:48.542Z"
+  },
+  {
+    "id": "quiz-157128f3",
+    "trainer_id": "48632025-1678-4014-925a-86391063614b",
+    "trainer_name": "Elisala Sushma",
+    "trainer_email": "vsushmaelisala@gmail.com",
+    "college_id": "7b830e12-d85c-4d39-9524-2c63efcf4174",
+    "college_name": "Adarsh Engineering College",
+    "title": "Unexpected Window Close Test #1790338221245",
+    "description": "Class assessment quiz. Complete within the time limit.",
+    "course_name": "Python Full Stack & AI",
+    "target_branch": "ALL",
+    "target_year": "3rd Year",
+    "duration_minutes": 15,
+    "total_marks": 1,
+    "passing_percentage": 60,
+    "quiz_type": "CUSTOM_MCQ",
+    "questions": [
+      {
+        "id": "q1",
+        "question_text": "Sample Q1?",
+        "options": [
+          {
+            "id": "A",
+            "text": "Opt1"
+          },
+          {
+            "id": "B",
+            "text": "Opt2"
+          }
+        ],
+        "correct_option": "A",
+        "marks": 1,
+        "explanation": ""
+      }
+    ],
+    "is_published": true,
+    "status": "PUBLISHED",
+    "published_at": "2026-09-25T12:10:21.244Z",
+    "created_at": "2026-09-25T12:10:21.244Z",
+    "updated_at": "2026-09-25T12:10:21.244Z"
+  },
+  {
+    "id": "quiz-b36e1089",
+    "trainer_id": "48632025-1678-4014-925a-86391063614b",
+    "trainer_name": "Elisala Sushma",
+    "trainer_email": "vsushmaelisala@gmail.com",
+    "college_id": "7b830e12-d85c-4d39-9524-2c63efcf4174",
+    "college_name": "Adarsh Engineering College",
+    "title": "Proctoring & Anti-Cheat Tab Switch Test #1790338219514",
+    "description": "Class assessment quiz. Complete within the time limit.",
+    "course_name": "Python Full stack",
+    "target_branch": "ALL",
+    "target_year": "2nd Year",
+    "duration_minutes": 15,
+    "total_marks": 4,
+    "passing_percentage": 60,
+    "quiz_type": "CUSTOM_MCQ",
+    "questions": [
+      {
+        "id": "q1",
+        "question_text": "What keyword defines a function in Python?",
+        "options": [
+          {
+            "id": "A",
+            "text": "func"
+          },
+          {
+            "id": "B",
+            "text": "def"
+          },
+          {
+            "id": "C",
+            "text": "function"
+          },
+          {
+            "id": "D",
+            "text": "define"
+          }
+        ],
+        "correct_option": "B",
+        "marks": 2,
+        "explanation": ""
+      },
+      {
+        "id": "q2",
+        "question_text": "Which data type is immutable?",
+        "options": [
+          {
+            "id": "A",
+            "text": "tuple"
+          },
+          {
+            "id": "B",
+            "text": "list"
+          },
+          {
+            "id": "C",
+            "text": "dict"
+          },
+          {
+            "id": "D",
+            "text": "set"
+          }
+        ],
+        "correct_option": "A",
+        "marks": 2,
+        "explanation": ""
+      }
+    ],
+    "is_published": true,
+    "status": "PUBLISHED",
+    "published_at": "2026-09-25T12:10:19.519Z",
+    "created_at": "2026-09-25T12:10:19.519Z",
+    "updated_at": "2026-09-25T12:10:19.519Z"
+  },
+  {
+    "id": "quiz-7592af53",
+    "trainer_id": "48632025-1678-4014-925a-86391063614b",
+    "trainer_name": "Elisala Sushma",
+    "trainer_email": "vsushmaelisala@gmail.com",
+    "college_id": "7b830e12-d85c-4d39-9524-2c63efcf4174",
+    "college_name": "Adarsh Engineering College",
+    "title": "Python OOPs & Data Structures - 2nd Year Live Test",
+    "description": "Concept verification exam for 2nd year Python Full stack students.",
+    "course_name": "Python Full stack",
+    "target_branch": "ALL",
+    "target_year": "2nd Year",
+    "duration_minutes": 15,
+    "total_marks": 10,
+    "passing_percentage": 60,
+    "quiz_type": "CUSTOM_MCQ",
+    "questions": [
+      {
+        "id": "q1",
+        "question_text": "What does __init__ method do in Python classes?",
+        "options": [
+          {
+            "id": "A",
+            "text": "It acts as the constructor to initialize object attributes."
+          },
+          {
+            "id": "B",
+            "text": "It deletes the object from memory."
+          },
+          {
+            "id": "C",
+            "text": "It imports external libraries."
+          },
+          {
+            "id": "D",
+            "text": "It compiles the code to bytecode."
+          }
+        ],
+        "correct_option": "A",
+        "marks": 5,
+        "explanation": ""
+      },
+      {
+        "id": "q2",
+        "question_text": "Which data structure follows LIFO (Last In First Out)?",
+        "options": [
+          {
+            "id": "A",
+            "text": "Queue"
+          },
+          {
+            "id": "B",
+            "text": "Stack"
+          },
+          {
+            "id": "C",
+            "text": "Array"
+          },
+          {
+            "id": "D",
+            "text": "Tree"
+          }
+        ],
+        "correct_option": "B",
+        "marks": 5,
+        "explanation": ""
+      }
+    ],
+    "is_published": true,
+    "status": "PUBLISHED",
+    "published_at": "2026-09-25T12:08:43.206Z",
+    "created_at": "2026-09-25T12:08:43.206Z",
+    "updated_at": "2026-09-25T12:08:43.206Z"
+  },
+  {
+    "id": "quiz-2c432c9d",
+    "trainer_id": "48632025-1678-4014-925a-86391063614b",
+    "trainer_name": "Elisala Sushma",
+    "trainer_email": "vsushmaelisala@gmail.com",
+    "college_id": "7b830e12-d85c-4d39-9524-2c63efcf4174",
+    "college_name": "Adarsh Engineering College",
+    "title": "Unexpected Window Close Test #1790335972829",
+    "description": "Class assessment quiz. Complete within the time limit.",
+    "course_name": "Python Full stack",
+    "target_branch": "ALL",
+    "target_year": "2nd Year",
+    "duration_minutes": 15,
+    "total_marks": 1,
+    "passing_percentage": 60,
+    "quiz_type": "CUSTOM_MCQ",
+    "questions": [
+      {
+        "id": "q1",
+        "question_text": "Sample Q1?",
+        "options": [
+          {
+            "id": "A",
+            "text": "Opt1"
+          },
+          {
+            "id": "B",
+            "text": "Opt2"
+          }
+        ],
+        "correct_option": "A",
+        "marks": 1,
+        "explanation": ""
+      }
+    ],
+    "is_published": true,
+    "status": "PUBLISHED",
+    "published_at": "2026-09-25T11:32:52.845Z",
+    "created_at": "2026-09-25T11:32:52.845Z",
+    "updated_at": "2026-09-25T11:32:52.845Z"
+  },
+  {
+    "id": "quiz-eda6da70",
+    "trainer_id": "48632025-1678-4014-925a-86391063614b",
+    "trainer_name": "Elisala Sushma",
+    "trainer_email": "vsushmaelisala@gmail.com",
+    "college_id": "7b830e12-d85c-4d39-9524-2c63efcf4174",
+    "college_name": "Adarsh Engineering College",
+    "title": "Proctoring & Anti-Cheat Tab Switch Test #1790335961159",
+    "description": "Class assessment quiz. Complete within the time limit.",
+    "course_name": "Python Full stack",
+    "target_branch": "ALL",
+    "target_year": "2nd Year",
+    "duration_minutes": 15,
+    "total_marks": 4,
+    "passing_percentage": 60,
+    "quiz_type": "CUSTOM_MCQ",
+    "questions": [
+      {
+        "id": "q1",
+        "question_text": "What keyword defines a function in Python?",
+        "options": [
+          {
+            "id": "A",
+            "text": "func"
+          },
+          {
+            "id": "B",
+            "text": "def"
+          },
+          {
+            "id": "C",
+            "text": "function"
+          },
+          {
+            "id": "D",
+            "text": "define"
+          }
+        ],
+        "correct_option": "B",
+        "marks": 2,
+        "explanation": ""
+      },
+      {
+        "id": "q2",
+        "question_text": "Which data type is immutable?",
+        "options": [
+          {
+            "id": "A",
+            "text": "tuple"
+          },
+          {
+            "id": "B",
+            "text": "list"
+          },
+          {
+            "id": "C",
+            "text": "dict"
+          },
+          {
+            "id": "D",
+            "text": "set"
+          }
+        ],
+        "correct_option": "A",
+        "marks": 2,
+        "explanation": ""
+      }
+    ],
+    "is_published": true,
+    "status": "PUBLISHED",
+    "published_at": "2026-09-25T11:32:41.189Z",
+    "created_at": "2026-09-25T11:32:41.189Z",
+    "updated_at": "2026-09-25T11:32:41.189Z"
+  },
+  {
+    "id": "quiz-8dd1dbd6",
+    "trainer_id": "48632025-1678-4014-925a-86391063614b",
+    "trainer_name": "Elisala Sushma",
+    "trainer_email": "vsushmaelisala@gmail.com",
+    "college_id": "7b830e12-d85c-4d39-9524-2c63efcf4174",
+    "college_name": "Adarsh Engineering College",
+    "title": "Python Core OOP Quiz #1",
+    "description": "OOP Concepts in Python",
+    "course_name": "Python Full stack",
+    "target_branch": "ALL",
+    "target_year": "2nd Year",
+    "duration_minutes": 15,
+    "total_marks": 4,
+    "passing_percentage": 60,
+    "quiz_type": "CUSTOM_MCQ",
+    "questions": [
+      {
+        "id": "q_1_1790332950121",
+        "question_text": "Which method is the constructor in Python classes?",
+        "options": [
+          {
+            "id": "A",
+            "text": "__construct__"
+          },
+          {
+            "id": "B",
+            "text": "constructor()"
+          },
+          {
+            "id": "C",
+            "text": "__init__"
+          },
+          {
+            "id": "D",
+            "text": "_init_"
+          }
+        ],
+        "correct_option": "C",
+        "marks": 2,
+        "explanation": "__init__ is the initializer / constructor in Python."
+      },
+      {
+        "id": "q_2_1790332950122",
+        "question_text": "What is self in Python class methods?",
+        "options": [
+          {
+            "id": "A",
+            "text": "A reserved keyword"
+          },
+          {
+            "id": "B",
+            "text": "Reference to current instance"
+          },
+          {
+            "id": "C",
+            "text": "A global object"
+          },
+          {
+            "id": "D",
+            "text": "A class pointer"
+          }
+        ],
+        "correct_option": "B",
+        "marks": 2,
+        "explanation": "self refers to the instance of the class."
+      }
+    ],
+    "is_published": true,
+    "status": "PUBLISHED",
+    "published_at": "2026-09-25T10:42:30.122Z",
+    "created_at": "2026-09-25T10:42:30.122Z",
+    "updated_at": "2026-09-25T10:42:30.122Z"
+  },
+  {
+    "id": "quiz-cb7f5a34",
+    "trainer_id": "48632025-1678-4014-925a-86391063614b",
+    "trainer_name": "Elisala Sushma",
+    "trainer_email": "vsushmaelisala@gmail.com",
+    "college_id": "7b830e12-d85c-4d39-9524-2c63efcf4174",
+    "college_name": "Adarsh Engineering College",
+    "title": "Python Core OOP Quiz #1",
+    "description": "OOP Concepts in Python",
+    "course_name": "Python Full stack",
+    "target_branch": "ALL",
+    "target_year": "2nd Year",
+    "duration_minutes": 15,
+    "total_marks": 4,
+    "passing_percentage": 60,
+    "quiz_type": "CUSTOM_MCQ",
+    "questions": [
+      {
+        "id": "q_1_1790330319044",
+        "question_text": "Which method is the constructor in Python classes?",
+        "options": [
+          {
+            "id": "A",
+            "text": "__construct__"
+          },
+          {
+            "id": "B",
+            "text": "constructor()"
+          },
+          {
+            "id": "C",
+            "text": "__init__"
+          },
+          {
+            "id": "D",
+            "text": "_init_"
+          }
+        ],
+        "correct_option": "C",
+        "marks": 2,
+        "explanation": "__init__ is the initializer / constructor in Python."
+      },
+      {
+        "id": "q_2_1790330319044",
+        "question_text": "What is self in Python class methods?",
+        "options": [
+          {
+            "id": "A",
+            "text": "A reserved keyword"
+          },
+          {
+            "id": "B",
+            "text": "Reference to current instance"
+          },
+          {
+            "id": "C",
+            "text": "A global object"
+          },
+          {
+            "id": "D",
+            "text": "A class pointer"
+          }
+        ],
+        "correct_option": "B",
+        "marks": 2,
+        "explanation": "self refers to the instance of the class."
+      }
+    ],
+    "is_published": true,
+    "status": "PUBLISHED",
+    "published_at": "2026-09-25T09:58:39.044Z",
+    "created_at": "2026-09-25T09:58:39.044Z",
+    "updated_at": "2026-09-25T09:58:39.044Z"
+  },
+  {
+    "id": "quiz-b318c4b3",
+    "trainer_id": "48632025-1678-4014-925a-86391063614b",
+    "trainer_name": "Elisala Sushma",
+    "trainer_email": "vsushmaelisala@gmail.com",
+    "college_id": "7b830e12-d85c-4d39-9524-2c63efcf4174",
+    "college_name": "Adarsh Engineering College",
+    "title": "Python Core OOP Quiz #1",
+    "description": "OOP Concepts in Python",
+    "course_name": "Python Full stack",
+    "target_branch": "ALL",
+    "target_year": "2nd Year",
+    "duration_minutes": 15,
+    "total_marks": 4,
+    "passing_percentage": 60,
+    "quiz_type": "CUSTOM_MCQ",
+    "questions": [
+      {
+        "id": "q_1_1790329733144",
+        "question_text": "Which method is the constructor in Python classes?",
+        "options": [
+          {
+            "id": "A",
+            "text": "__construct__"
+          },
+          {
+            "id": "B",
+            "text": "constructor()"
+          },
+          {
+            "id": "C",
+            "text": "__init__"
+          },
+          {
+            "id": "D",
+            "text": "_init_"
+          }
+        ],
+        "correct_option": "C",
+        "marks": 2,
+        "explanation": "__init__ is the initializer / constructor in Python."
+      },
+      {
+        "id": "q_2_1790329733144",
+        "question_text": "What is self in Python class methods?",
+        "options": [
+          {
+            "id": "A",
+            "text": "A reserved keyword"
+          },
+          {
+            "id": "B",
+            "text": "Reference to current instance"
+          },
+          {
+            "id": "C",
+            "text": "A global object"
+          },
+          {
+            "id": "D",
+            "text": "A class pointer"
+          }
+        ],
+        "correct_option": "B",
+        "marks": 2,
+        "explanation": "self refers to the instance of the class."
+      }
+    ],
+    "is_published": true,
+    "status": "PUBLISHED",
+    "published_at": "2026-09-25T09:48:53.146Z",
+    "created_at": "2026-09-25T09:48:53.146Z",
+    "updated_at": "2026-09-25T09:48:53.146Z"
+  },
+  {
+    "id": "quiz-python-daily-01",
+    "trainer_id": "48632025-1678-4014-925a-86391063614b",
+    "trainer_name": "Elisala Sushma",
+    "trainer_email": "vsushmaelisala@gmail.com",
+    "college_id": "7b830e12-d85c-4d39-9524-2c63efcf4174",
+    "college_name": "Adarsh Engineering College",
+    "title": "Python Functions, Lists & Comprehensions - Daily Quiz #14",
+    "description": "Post-class 15-minute concept review quiz. Questions are randomized for each student. All submissions automatically close once timer expires.",
+    "course_name": "Python Full stack",
+    "target_branch": "ALL",
+    "target_year": "2nd Year",
+    "duration_minutes": 15,
+    "total_marks": 10,
+    "passing_percentage": 60,
+    "quiz_type": "CUSTOM_MCQ",
+    "is_published": true,
+    "status": "PUBLISHED",
+    "published_at": "2026-09-25T09:48:00.246Z",
+    "created_at": "2026-09-25T07:48:00.248Z",
+    "updated_at": "2026-09-25T09:48:00.248Z",
+    "questions": [
+      {
+        "id": "q1",
+        "question_text": "What will be the output of: print([x**2 for x in range(5) if x % 2 == 0])?",
+        "options": [
+          {
+            "id": "A",
+            "text": "[0, 4, 16]"
+          },
+          {
+            "id": "B",
+            "text": "[1, 9]"
+          },
+          {
+            "id": "C",
+            "text": "[0, 2, 4]"
+          },
+          {
+            "id": "D",
+            "text": "[4, 16]"
+          }
+        ],
+        "correct_option": "A",
+        "marks": 2,
+        "explanation": "range(5) gives 0, 1, 2, 3, 4. Even numbers are 0, 2, 4. Their squares are 0, 4, 16."
+      },
+      {
+        "id": "q2",
+        "question_text": "Which Python keyword is used to create an anonymous function?",
+        "options": [
+          {
+            "id": "A",
+            "text": "def"
+          },
+          {
+            "id": "B",
+            "text": "lambda"
+          },
+          {
+            "id": "C",
+            "text": "anonymous"
+          },
+          {
+            "id": "D",
+            "text": "inline"
+          }
+        ],
+        "correct_option": "B",
+        "marks": 2,
+        "explanation": "The lambda keyword creates small anonymous functions on the fly."
+      },
+      {
+        "id": "q3",
+        "question_text": "In Python, what is the default return value of a function that does not contain a return statement?",
+        "options": [
+          {
+            "id": "A",
+            "text": "0"
+          },
+          {
+            "id": "B",
+            "text": "False"
+          },
+          {
+            "id": "C",
+            "text": "None"
+          },
+          {
+            "id": "D",
+            "text": "Null"
+          }
+        ],
+        "correct_option": "C",
+        "marks": 2,
+        "explanation": "Functions in Python without an explicit return statement return None by default."
+      },
+      {
+        "id": "q4",
+        "question_text": "What is the time complexity of appending an element to the end of a Python list on average?",
+        "options": [
+          {
+            "id": "A",
+            "text": "O(1)"
+          },
+          {
+            "id": "B",
+            "text": "O(n)"
+          },
+          {
+            "id": "C",
+            "text": "O(log n)"
+          },
+          {
+            "id": "D",
+            "text": "O(n^2)"
+          }
+        ],
+        "correct_option": "A",
+        "marks": 2,
+        "explanation": "list.append() operates in amortized O(1) constant time."
+      },
+      {
+        "id": "q5",
+        "question_text": "Which built-in function returns both the index and value when iterating over a sequence?",
+        "options": [
+          {
+            "id": "A",
+            "text": "zip()"
+          },
+          {
+            "id": "B",
+            "text": "enumerate()"
+          },
+          {
+            "id": "C",
+            "text": "map()"
+          },
+          {
+            "id": "D",
+            "text": "filter()"
+          }
+        ],
+        "correct_option": "B",
+        "marks": 2,
+        "explanation": "enumerate(iterable) yields pairs of (index, item) during iteration."
+      }
+    ]
+  },
+  {
+    "id": "quiz-tech-googleform-01",
+    "trainer_id": "59743126-2789-5125-a36b-97402174725c",
+    "trainer_name": "Daiva Rao",
+    "trainer_email": "daivarao.techhub@cognitoinsights.ai",
+    "college_id": "7b830e12-d85c-4d39-9524-2c63efcf4174",
+    "college_name": "Adarsh Engineering College",
+    "title": "Technical Foundations & Aptitude Live Test",
+    "description": "Direct Google Form Quiz. Complete the test within 20 minutes.",
+    "course_name": "Technical Skills & Python Foundations",
+    "target_branch": "ALL",
+    "target_year": "ALL",
+    "duration_minutes": 20,
+    "total_marks": 20,
+    "passing_percentage": 60,
+    "quiz_type": "GOOGLE_FORM",
+    "google_form_url": "https://docs.google.com/forms/d/e/1FAIpQLSc_Example_TechHub_Aptitude/viewform",
+    "is_published": true,
+    "status": "PUBLISHED",
+    "published_at": "2026-09-25T09:48:00.248Z",
+    "created_at": "2026-09-25T04:48:00.248Z",
+    "updated_at": "2026-09-25T09:48:00.248Z",
+    "questions": []
+  }
+]

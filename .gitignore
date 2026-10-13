@@ -1,0 +1,51 @@
+# Environment files & Secrets
+.env
+*.env
+.env.*
+backend/.env
+**/.env*
+
+# Node
+node_modules/
+**/node_modules/
+dist/
+**/dist/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Flutter / Dart
+.dart_tool/
+**/.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/
+**/build/
+.flutter-plugins
+.flutter-plugins-dependencies
+**/.flutter-plugins*
+**/android/app/build/
+**/android/.gradle/
+android/.gradle/
+
+# Binaries & Large Artifacts
+*.apk
+*.aab
+*.ipa
+*.sqlite
+*.db
+backend/uploads/*.apk
+
+# IDE & OS
+.idea/
+**/.idea/
+.vscode/
+**/.vscode/
+.kiro/
+*.iml
+.DS_Store
+**/.DS_Store
+
+# Uploads cache
+backend/uploads/temp/
